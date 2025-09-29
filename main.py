@@ -3,11 +3,11 @@ import pandas as pd
 import plotly.express as px
 import random
 
-st.title(f'You choose')
+st.title(f'Portlight')
 # st.header('This is the header')
 # st.subheader(f'This is the subheader')
 # st.write('This is a simple text snippet')
-st.markdown(f'**A database highlighting the most controversial investment funds**')
+st.markdown(f"**Freeports' database on controversial investment and pension funds.**")
 # st.markdown(f'this is not a bold text')
 
 with st.sidebar:
