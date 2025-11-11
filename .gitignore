@@ -19,6 +19,5 @@ Thumbs.db
 
 # Data and logs
 data/*.xlsx
-data/*.csv
 !data/holdings.csv    # keep this demo file tracked
 logs/
