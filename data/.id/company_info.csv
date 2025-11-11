@@ -1,0 +1,249 @@
+Company legal name,Company name,Bud,additional Buds,Regex,additional Regex,Symbols[market_name],OHCHR25/UN/2025-09-26,OHCHR23/UN/2023-06-30,UNSR_OPT/UN/2025-01-01,DBIO/NGO/2024-01-01,TEST/FREEPORTS/2025-01-01
+A. Barkan and Partners Ltd.,A Barkan and Partners,barkan,,\bbarkan\b,,,1,0,0,0,0
+A.P. Møller - Mærsk AS,AP Møller Mærsk,,ap maersk | ap moeller | maersk,,,MAERAC,0,0,1,0,1
+Ackerstein Industries Ltd.,Ackerstein Industries,ackerstein,,\backerstein\b,,,1,0,0,0,0
+ACS Actividades de Construcción y Servicios S.A.,ACS Actividades de Construcción y Servicios,actividades de construccion y servicios,,\bactividades de construccion y servicios\b,,,1,0,0,0,0
+Ahava – Dead Sea Laboratories Ltd.,Ahava Dead Sea Laboratories,ahava,dead sea laboratories,\bahava\b,,,1,0,0,0,0
+Airbnb Inc,Airbnb,airbnb,airbnb co,\bairbnb\b,,ABNB | ABNB[2] | AIRB[2],1,1,1,1,1
+Alon Blue Square Israel Ltd,Alon Blue Square,alon blue,,\balon blue\b,,,1,1,0,1,0
+Alphabet Inc,Alphabet,alphabet,,\balphabet\b,,GOOGL,0,0,1,0,1
+Alstom SA,Alstom SA,alstom,,\balstom\b,,ALO | ALSO[2] | ALSMY[2],0,1,0,1,0
+Altice International Sarl,Altice International,altice,altice europe,\baltice\b,,,1,1,0,1,1
+Amazon.com Inc,Amazon,amazon,,\bamazon\b,,AMZN,0,0,1,0,1
+American Israeli Gas Corp. Ltd,American Israeli Gas Corp,american israeli ga,amisragas,\bamerican israeli ga\b,,,1,1,0,0,0
+Amir Marketing and Investments in Agriculture Ltd,Amir Marketing and Investments in Agriculture,amir,,\bamir\b,,AMRK,1,1,0,0,0
+Amos Hadar Properties and Investments Ltd,Amos Hadar Properties and Investments,amos,,\bamos\b,,,1,1,0,0,0
+Amot Investments Ltd.,Amot Investments,amot,,\bamot\b,,,1,0,0,0,0
+Anglo Saxon Real Estate Agency (Israel 1992) Ltd.,Anglo Saxon Real Estate Agency,anglo saxon,saxon agency,\banglo saxon\b,,,1,0,0,0,0
+Apple Inc,Apple,,,,,,0,0,0,0,1
+Archivists Ltd,Archivists,,,,,,1,1,0,1,0
+Ariel Properties Group Ltd,Ariel Properties Group,ariel properties,ariel group,\bariel properties\b,,,0,1,0,0,0
+Ashdod refinery Ltd,Ashdod refinery,ashdod,,\bashdod\b,,ARF,0,0,0,1,0
+Ashtrom Group Ltd,Ashtrom Group,ashtrom,,\bashtrom\b,,ASHG,1,1,0,0,1
+Ashtrom Industries Ltd,Ashtrom Industries,ashtrom,,\bashtrom\b,,,1,1,0,0,1
+Ashtrom Residential Development Ltd.,Ashtrom Residential Development,ashtrom residential,,\bashtrom residential\b,,,1,0,0,0,1
+Axel Springer SE,Axel Springer,axel,,\baxel\b,,,0,0,0,1,0
+B. Gaon Holdings Ltd.,B. Gaon Holdings,b gaon,,\bb gaon\b,,,1,0,0,0,0
+Bank Hapoalim BM,Bank Hapoalim,bank hapoalim,,\bbank hapoalim\b,,POLI | BKH[2] | BKHYY[2] | BKHPY[2],1,1,0,1,0
+Bank Leumi le-Israel BM,Bank Leumi,leumi,,\bleumi\b,,LUMI | BLMIF[2],1,1,0,1,0
+Bank of Jerusalem Ltd,Bank of Jerusalem,,jerusalem bank,,,JBNK,1,1,0,0,0
+"Bar-Amana Buildings Construction and
+Development Company Ltd.","Bar-Amana Buildings Construction and
+Development Company",bar amana,,\bbar amana\b,,,1,0,0,0,0
+"Barad Earthworks, Development and Roadworks","Barad Earthworks, Development and Roadworks",barad,,\bbarad\b,,,1,0,0,0,0
+Baran Group Ltd.,Baran Group,baran,,\bbaran\b,,,1,0,0,0,0
+Bardarian Brothers Ltd.,Bardarian Brothers,bardarian,,\bbardarian\b,,,1,0,0,0,0
+Beit Haarchiv Ltd,Beit Haarchiv,beit,haarchiv,\bbeit\b,,,1,1,0,1,0
+Bezeq The Israeli Telecomunication Corp. Ltd,Bezeq Corp,bezeq,,\bbezeq\b,,BEZQ | BZQI[2],1,1,0,1,0
+Bombardier Transportation Israel,Bombardier Transportation Israel,bombardier transportation,bombardier israel,\bbombardier transportation\b,,,1,1,0,1,0
+"Boneich Construction Development & Investments
+Ltd",Boneich Construction Development & Investments,boneich,,\bboneich\b,,,1,0,0,0,0
+Booking Holdings Inc,Booking Holdings,booking,,\bbooking\b,,BKNG | BKNG[2] | BKNG[2],1,1,1,1,1
+Booking.com BV,Booking.com,,,,,,1,1,1,1,1
+BP Plc,BP Plc,,,,,,0,0,1,0,1
+Bright Dairy & Food Co. Ltd,Bright Dairy & Food Ltd,bright dairy,,\bbright dairy\b,,,0,0,0,1,0
+Bright Food Group Co. Ltd,Bright Food Group,bright food,,\bbright food\b,,,0,0,1,0,1
+"Brothers Hasid Construction Contracting Company
+Ltd.",Brothers Hasid Construction Contracting Company,brothers hasid,,\bbrothers hasid\b,,,1,0,0,0,0
+C. Mer Industries Ltd,C Mer Industries,c mer,mer industries,\bc mer\b,,CMER,1,1,0,0,0
+Caliber 3,Caliber 3,caliber,,\bcaliber\b,,,1,1,0,0,0
+Carlsberg Group AS,Carlsberg Group,carlsberg,,\bcarlsberg\b,,CARL | CARL[2] | CABGY[2],0,0,0,1,1
+Carrefour SA,Carrefour,,,,,CARR[2] | CRRFY[2],0,0,0,1,1
+Caterpillar Inc,Caterpillar,,,,,CAT,0,0,1,1,1
+Cellcom Israel Ltd,Cellcom Israel,cellcom,,\bcellcom\b,,CEL,1,1,0,1,0
+Cemex SAB de CV,Cemex,,,,,CX,0,0,0,1,0
+Cherriessa Ltd,Cherriessa,,,,,,1,1,0,0,0
+Chevron Corporation,Chevron,,,,,CVX,0,0,1,0,1
+Chish Nofei Israel Ltd,Chish Nofei Israel Ltd,chish nofei,,\bchish nofei\b,,,1,1,0,0,0
+Cim Lustigman Development and Construction Ltd,Cim Lustigman Development and Construction,cim lustigman,,\bcim lustigman\b,,,1,0,0,0,0
+Cisco Systems Inc,Cisco Systems,cisco,cisco sistems,cisco ?s[yi]stems?,,CSCO,0,0,0,1,1
+CityBook Services Ltd,CityBook Services,citybook,,\bcitybook\b,,,1,0,0,0,0
+CNH Industrial NV,CNH Industrial,,,,,,0,0,0,1,1
+Comasco Ltd,Comasco Ltd,comasco,,\bcomasco\b,,,1,1,0,0,0
+Construcciones y Auxiliar de Ferrocarriles SA,Construcciones y Auxiliar de Ferrocarriles SA,construcciones y auxiliar,ferrocarriles | caf sa,\bconstrucciones y auxiliar\b,,CAF,1,0,1,1,1
+D.B.S Satellite Service Ltd,DBS Satellite Service,satellite service,,\bsatellite service\b,,,1,1,0,0,0
+D.N. Kol-Gader Ltd.,D.N. Kol-Gader,kol gader,dn kol,\bkol gader\b,,,1,0,0,0,0
+"Dalia Elispur Construction Contracting Company
+1972 Ltd",Dalia Elispur Construction Contracting Company,dalia elispur,,\bdalia elispur\b,,,1,0,0,0,0
+Danya Cebus Ltd,Danya Cebus,,,,,DNYA,0,0,0,1,0
+Delek Group Ltd,Delek Group,delek,,\bdelek\b,,DLEKG | DELKY[2],1,1,1,1,1
+Delta Galil industries Ltd,Delta Galil Industries,delta galil,galil | delta,\bdelta galil\b,,DELG | DELTF,1,1,0,1,0
+Delta Israel Brands Ltd,Delta Israel Brands,israel brands,delta brands,\bisrael brands\b,,DLTI,1,1,0,0,0
+Dor Alon Energy in Israel 1988 Ltd,Dor Alon Energy Ltd.,dor alon,,\bdor alon\b,,DRAL,1,1,0,0,0
+Drummond Company Inc,Drummond Company,drummond,,\bdrummond\b,,,0,0,1,0,1
+E.T. Legal Services Ltd.,E.T. Legal Services,et legal,,\bet legal\b,,,1,0,0,0,0
+eDreams ODIGEO SA,eDreams ODIGEO,edreams,,\bedreams\b,,EDRE | EDRE[2] | EDEMY[2] | EDDRF[2],0,1,0,1,1
+Egged Transportation Ltd,Egged Transportation Ltd,egged,,\begged\b,,,1,1,0,0,0
+Egis Group,Egis Group,egis,,\begis\b,,,1,1,0,0,0
+Egis Rail,Egis Rail SA,egis,,\begis\b,,,1,1,0,0,0
+Einav Hahetz 1965 Ltd.,Einav Hahetz,einav,hahetz,\beinav\b,,,1,0,0,0,0
+Elbit Systems Ltd,Elbit Systems,elbit,,\belbit\b,,ESLT,0,0,1,1,1
+Elco Ltd.,Elco,,,,,,1,0,0,0,0
+Electra Afikim Ltd,Electra Afikim,electra,,\belectra\b,,,1,1,0,1,0
+Electra Group Ltd,Electra Group,electra,,\belectra\b,,ELTR | ETRZF[2],1,1,0,1,0
+Electricity Production and Renewable Energy Systems Ltd,Electricity Production and Renewable Energy Systems Ltd,energy systems,epr energy systems | epr systems,\benergy systems\b,,,1,1,0,0,0
+Elyakim Ben-Ari Ltd.,Elyakim Ben-Ari,elyakim,ben ari,\belyakim\b,,,1,0,0,0,0
+Euro-Israel (Y.S.) Ltd.,Euro-Israel,euro israel,,\beuro israel\b,,,1,0,0,0,0
+Expedia Group Inc,Expedia,,,,,EXPE | EXGR[2],1,1,0,1,1
+Export Investment Company Ltd,Export Investment Company Ltd,,export ic | export company,,,EXPO,1,1,0,0,0
+Extal Ltd,Extal,,,,,,1,1,0,0,0
+Extra Retail Group Ltd.,Extra Retail Group,extra retail,,\bextra retail\b,,,1,0,0,0,0
+FANUC Corporation,FANUC Corp,fanuc,,\bfanuc\b,,FANUY[2],0,0,1,0,1
+Field Produce Ltd,Field Produce,,,,,,1,1,0,0,0
+Field Produce Marketing Ltd,Field Produce Marketing,,field marketing,,,,1,1,0,0,0
+First International Bank of Israel Ltd,First International Bank of Israel,international bank of israel,fi bank of israel | fib of israel,\binternational bank of israel\b,,FIBI | FBKIF[2],1,1,0,0,0
+Fosun International Ltd.,Fosun International,fosun,,\bfosun\b,,,1,0,0,0,0
+Gadish Engineering Company Ltd. (Gadish Group),Gadish Group,gadish,,\bgadish\b,,,1,0,0,0,0
+Galnor Construction and Development Ltd.,Galnor Construction and Development,galnor,,\bgalnor\b,,,1,0,0,0,0
+Galshan Shvakim Ltd.,Galshan Shvakim Plc,shvakim,,\bshvakim\b,,,1,1,0,0,0
+"Geo-Da – Lands & Property Management &
+Information Ltd.","Geo-Da Lands & Property Management &
+Information",geo da,,\bgeo da\b,,,1,0,0,0,0
+Glencore plc,Glencore,,,,,GLEN | GLNCY[2],0,0,1,0,1
+Greenkote Plc,Greenkote,,,,,,1,1,0,0,0
+"Greenmix, of Benny and Tzvika Group Ltd.","Greenmix, of Benny and Tzvika Group",greenmix,benny and tzvika,\bgreenmix\b,,,1,0,0,0,0
+Hadar Group Ltd,Hadar Group,hadar,,\bhadar\b,,,1,1,0,0,0
+Hadiklaim Israel Date Growers Cooperative Ltd,Hadiklaim Ltd,hadiklaim,,\bhadiklaim\b,,,0,1,0,0,0
+Haim Zaken Construction & Investments Ltd.,Haim Zaken Construction & Investments,haim zaken,,\bhaim zaken\b,,,1,0,0,0,0
+Hamat Group Ltd,Hamat Group,hamat,,\bhamat\b,,HAMAT | MCBMF[2],1,1,0,1,0
+Hangzhou Hikvision Digital Technology Co. Ltd,Hangzhou Hikvision Digital Technology Co,hangzhou hikvision,hikvision | hikvision digital tech,\bhangzhou hikvision\b,,,0,0,0,1,0
+Hanson Israel Ltd,Hanson Israel Ltd,hanson,,\bhanson\b,,,0,0,1,1,1
+Harsa Studio – Sanitaryware Manufacturers Ltd.,Harsa Studio Sanitaryware Manufacturers,harsa studio,,\bharsa studio\b,,,1,0,0,0,0
+HD Hyundai Co. Ltd,HD Hyundai,hyundai,,\bhyundai\b,,HYMTF[2],0,0,1,1,1
+HD Hyundai Infracore Co. Ltd,HD Hyundai Infracore,hyundai infracore,,\bhyundai infracore\b,,,0,0,1,1,1
+Heidelberg Materials AG,Heidelberg Materials,heidelberg,,\bheidelberg\b,,HEI | HDLMY[2],1,0,1,1,1
+Hewlett Packard Enterprise Company,Hewlett Packard Enterprise,hewlett packard,,\bhewlett packard\b,,HPE,0,0,1,1,1
+Hilan Ltd,Hilan Ltd,hilan,,\bhilan\b,,HALN | HLTEF[2],0,0,0,1,0
+Hot Mobile Ltd,Hot Mobile Ltd,hot mobile,,\bhot mobile\b,,,1,1,0,1,0
+Hot Telecommunications Systems Ltd,Hot Telecommunications Systems,hot telecommunications,hot systems,\bhot telecommunications\b,,,1,1,0,1,0
+ICL Group Ltd,ICL Group,icl,,\bicl\b,,ICL,0,0,0,1,0
+"Ingeniería y Economía del Transporte S.M.E. M.P,
+S.A. (Ineco)",Ingeniería y Economía del Transporte,,ineco,,,,1,0,0,0,0
+International Business Machines Corp.,International Business Machines,,,,,IBM,0,0,1,1,1
+Israel Aereospace Industries Ltd,Israel Aereospace Industries,aereospace industries,il aereospaces industries,\baereospace industries\b,,,0,0,1,0,1
+Israel Discount Bank Ltd,Israel Discount Bank,discount bank,il discount bank,\bdiscount bank\b,,DSCT | ISDAY[2] | ISDAF[2],1,1,0,1,0
+Israel Railways Corporation Ltd,Israel Railways Corporation,israel railways,,\bisrael railways\b,,,1,1,0,0,0
+Italek Ltd,Italek Ltd,italek,,\bitalek\b,,,1,1,0,0,0
+J.C. Bamford Excavators Ltd,JC Bamford Excavators,bamford excavators,excavators,\bbamford excavators\b,,,1,1,0,0,0
+Kardan NV,Kardan NV,kardan,,\bkardan\b,,KRNV,0,1,0,0,0
+Kass – C Ltd.,Kass,,,\b\b,,,1,0,0,0,0
+Kavim Public Transportation Ltd,Kavim Public Transportation,kavim,,\bkavim\b,,,1,1,0,0,0
+Keller Williams Reality Inc,Keller Williams Reality,keller williams,williams reality | keller reality,\bkeller williams\b,,,0,0,1,0,1
+Keren Kayemeth LeIsrael,Keren Kayemeth LeIsrael,keren kayemeth,keren leisrael | kayemeth leisrael | jewish national fund,\bkeren kayemeth\b,,,0,0,1,0,1
+"Kfar Giladi Quarries Agricultural Cooperative
+Association Ltd.","Kfar Giladi Quarries Agricultural Cooperative
+Association",kfar giladi,,\bkfar giladi\b,,,1,0,0,0,0
+Kiriat Sefer (Diur Modyin) Ltd.,Kiriat Sefer,kiriat,diur modyin,\bkiriat\b,,,1,0,0,0,0
+Kotler Adika Building Company Ltd.,Kotler Adika Building Company,kotler,adika,\bkotler\b,,,1,0,0,0,0
+KW Israel,KW Israel,kw israel,,\bkw israel\b,,,0,0,1,0,1
+Lapidoth Capital Ltd.,Lapidoth Capital,lapidoth,,\blapidoth\b,,,1,0,0,0,0
+Leonardo SpA,Leonardo,,,,,LDO | FINMY[2],0,0,1,0,1
+Lipski Installation and Sanitation Ltd,Lipski Installation and Sanitation,lipski,,\blipski\b,,,1,1,0,1,0
+Lockheed Martin Corporation,Lockheed Martin,lockheed,,\blockheed\b,,LMT,0,0,1,0,1
+Magen – Construction Engineering Works Ltd.,Magen Construction Engineering Works,magen,,\bmagen\b,,,1,0,0,0,0
+MAN Truck & Bus SE,MAN Truck & Bus SE,man truck,truck & bus,\bman truck\b,,,0,0,0,1,0
+Margolin Bros. Engineering & Consulting Ltd.,Margolin Bros. Engineering & Consulting,margolin,,\bmargolin\b,,,1,0,0,0,0
+"Marom Tuval – Consulting, Management &
+Investments Ltd.","Marom Tuval Consulting, Management &
+Investments",marom tuval,tuval,\bmarom tuval\b,,,1,0,0,0,0
+Matrix IT Ltd,Matrix IT Ltd,matrix,,\bmatrix\b,,MTRX | RMTHF[2],1,1,0,1,0
+Mayer Davidov Garages Ltd,Mayer Davidov Garages,mayer,,\bmayer\b,,,1,1,0,0,0
+Mayer’s Cars and Trucks Co. Ltd,Mayer’s Cars and Trucks Co.,cars and trucks,mayer s cars | mayer s trucks,\bcars and trucks\b,,,1,1,0,0,0
+Medan – Roads and Quarries (1964) Ltd.,Medan Roads and Quarries,medan,,\bmedan\b,,,1,0,0,0,0
+Mega Or Holdings Ltd.,Mega Or Holdings,mega or,,\bmega or\b,,,1,0,0,0,0
+Mekorot Water Company Ltd,Mekorot Water Company,mekorot water,mekorot company,\bmekorot water\b,,,1,1,1,0,1
+Mercantile Discount Bank Ltd,Mercantile Discount Bank,,mercantile bank,,,,1,1,0,0,0
+Merkavim Transportation Technologies Ltd,Merkavim Transportation Technologies,merkavim,,\bmerkavim\b,,,1,1,0,0,0
+Mery Building Works Contracting Company Ltd.,Mery Building Works Contracting Company,,,,,,1,0,0,0,0
+Metrontario Investments Ltd.,Metrontario Investments,metrontario,,\bmetrontario\b,,,1,0,0,0,0
+Microsoft Corp.,Microsoft,,,,,MSFT,0,0,1,0,1
+Minrav Group Ltd.,Minrav Group,minrav,,\bminrav\b,,,1,0,0,0,0
+"Mishab Housing Construction & Development
+Company Ltd.","Mishab Housing Construction & Development
+Company",mishab,,\bmishab\b,,,1,0,0,0,0
+"Mishkan Eliyahu – Construction and Investment
+Company Ltd.","Mishkan Eliyahu Construction and Investment
+Company",mishkan eliyahu,,\bmishkan eliyahu\b,,,1,0,0,0,0
+Mivne Real Estate Ltd,Mivne Ltd,mivne,,\bmivne\b,,MVNE,1,1,0,1,0
+Mizrahi Tefahot Bank Ltd,Mizrahi Tefahot Bank,mizrahi tefahot,tefahot bank,\bmizrahi tefahot\b,,MZTF | MZTFF[2],1,1,0,1,0
+Modi’in Ezrachi Group Ltd,Modi’in Ezrachi Group,ezrachi,modi’in,\bezrachi\b,,,1,1,0,0,0
+Mordechai Aviv Tassiot Beniyah 1973 Ltd,Mordechai Aviv Tassiot Beniyah,mordechai,aviv tassiot | beniyah,\bmordechai\b,,AVIV,1,1,0,0,0
+Motorola Solutions Inc,Motorola Solutions,motorola,,\bmotorola\b,,MSI | MSI[2],1,1,0,1,1
+Motorola Solutions Israel Ltd,Motorola Solutions Israel,motorola solutions,,\bmotorola solutions\b,,,1,1,0,1,0
+N.O.H. Management and Consulting Ltd.,N.O.H. Management and Consulting,noh management,noh consulting,\bnoh management\b,,,1,0,0,0,0
+Naaman Group Ltd,Naaman Group,naaman,,\bnaaman\b,,,1,1,0,0,0
+Natoon Group,Natoon Group,natoon,,\bnatoon\b,,,1,1,0,0,0
+Netafim Ltd,Netafim,,,,,,0,0,1,1,1
+New Way Traffic Ltd.,New Way Traffic,new way,,\bnew way\b,,,1,0,0,0,0
+NewMedEnergy-Limited Partnership,NewMedEnergy Limited Partnership,newmedenergy,,\bnewmedenergy\b,,NWMD | DKDRF[2],1,1,1,1,1
+Nof Yam Security Ltd,Nof Yam Security Ltd,nof yam,nof security,\bnof yam\b,,,1,1,0,0,0
+NSO Group Technologies Ltd,NSO Group Technologies,nso group,nso technolog,\bnso group\b,,,0,0,1,0,1
+NVIDIA Corporation,NVIDIA,,,,,,0,0,0,0,1
+Ofertex Industries 1997 Ltd,Ofertex Industries,ofertex,,\bofertex\b,,,1,1,0,0,0
+"Olenik Transportation Earth Work and Road
+Constructions Ltd.","Olenik Transportation Earth Work and Road
+Constructions",olenik,,\bolenik\b,,,1,0,0,0,0
+Opodo Ltd,Opodo Ltd,opodo,,\bopodo\b,,,0,1,0,0,0
+Orbia Advance Corporation SAB de CV,Orbia Corp.,orbia,,\borbia\b,,ORBIA | MXCHY[2],0,0,1,1,1
+Oron Group Investments & Holdings Ltd.,Oron Group Investments & Holdings,oron group,oron investments | oron holdings,\boron group\b,,,1,0,0,0,0
+Palantir Technologies Inc,Palantir Technologies,palantir,,\bpalantir\b,,PLTR,0,0,1,0,1
+Partner Communication Company Ltd,Partner Communication Company,partner communication,partner company,\bpartner communication\b,,PNTR,1,1,0,1,0
+Paz Retail and Energy Ltd,Paz Retail and Energy Ltd,paz retail and energy,paz retail | paz energy | paz oil company,\bpaz retail and energy\b,,PAZ | PZZPF[2],1,1,1,1,1
+Pelephone Communications Ltd,Pelephone Communications,pelephone,,\bpelephone\b,,,1,1,0,0,0
+Petróleo Brasileiro SA,Petróleo Brasileiro,,petrobras | petroleo,,,PBR,0,0,1,0,1
+Powergen Solar A Ltd.,Powergen Solar,powergen,,\bpowergen\b,,,1,0,0,0,0
+Proffimat S.R. Ltd,Proffimat Ltd,proffimat,,\bproffimat\b,,,1,1,0,0,0
+Rami Levy Chain Stores Hashikma Marketing 2006 Ltd,Rami Levy Chain Stores Hashikma Marketing,rami levy,rami chain | rami stores | rami hashikma | rami marketing,\brami levy\b,,RMLI | RLEVF[2],1,1,0,0,0
+Rami Levy Hashikma Marketing Communications Ltd,Rami Levy Hashikma,,,,,,1,1,0,0,0
+Re/Max Israel,Remax Israel,remax,,\bremax\b,,RMAX,1,1,0,1,0
+Reshet Cafe cafe Israel Ltd,Reshet Cafe Israel,reshet caf,cafe cafe israel | cafe israel,\breshet caf\b,,,1,1,0,0,0
+Rotshtein Real Estate Ltd,Rotshtein Real Estate,rotshtein real estate,rotshtein,\brotshtein real estate\b,,,1,0,0,0,0
+S.A.G. (Velvel) Building & Development Ltd.,S.A.G. Building & Development,sag building,sag development | velvel,\bsag building\b,,,1,0,0,0,0
+Salomon A. Angel Ltd,Angel Bakeries Ltd,angel bakeries,salomon,\bangel bakeries\b,,ANGL,1,1,0,0,0
+Sarfati Shimon Ltd.,Sarfati Shimon,sarfati,shimon,\bsarfati\b,,,1,0,0,0,0
+"Shahar Co. – Civil Engineering, Construction and
+Infrastructure Company Ltd",Shahar Co,shahar,,\bshahar\b,,,1,0,0,0,0
+Shalgal Food Ltd,Shalgal Food,shalgal,,\bshalgal\b,,,1,1,0,0,0
+Shapir Engineering and Industry Ltd,Shapir Engineering and Industry,shapir,,\bshapir\b,,SPEN,1,1,0,1,0
+Shikun & Binui – Solel Boneh – Infrastructure Ltd.,Shikun & Binui Solel Boneh Infrastructure,shikun & binui,solel boneh,\bshikun & binui\b,,,1,0,0,0,0
+Shikun & Binui Ltd,Shikun & Binui Ltd,shikun,,\bshikun\b,,SKBN,0,0,0,1,0
+Shlomo Cohen Construction Company Ltd.,Shlomo Cohen Construction Company,shlomo,,\bshlomo\b,,,1,0,0,0,0
+Shoham Engineering and Development Ltd.,Shoham Engineering and Development,shoham,,\bshoham\b,,,1,0,0,0,0
+Shufersal Ltd,Shufersal,,,,,SAE | SHUFF[2],1,1,0,1,0
+Siemens AG,Siemens,,,\bsiemens\b,,SIE,0,0,0,1,1
+"Sociedad Espanola De Montajes Industriales S.A.
+(SEMI)",Sociedad Espanola De Montajes Industriales,sociedad espanola,semi,\bsociedad espanola\b,,,1,0,0,0,0
+Sonol Israel Ltd,Sonol Israel,sonol,,\bsonol\b,,,1,1,0,0,0
+Steconfer S.A.,Steconfer,,,,,,1,0,0,0,0
+Superbus Ltd,Superbus,,,,,,1,1,0,0,0
+Supergum Industries 1969 Ltd,Supergum Industries,supergum,,\bsupergum\b,,,1,1,0,0,0
+Syensqo SA,Syensqo SA,syensqo,,\bsyensqo\b,,SYENS,0,0,0,1,0
+Tahal Group International BV,Tahal Group,tahal,,\btahal\b,,,0,1,0,0,0
+The Caisse de dépôt et placement du Québec,The Caisse de dépôt et placement du Québec,caisse de,the caisse de depot et placement du quebec | caisse de depot,\bcaisse de\b,,,0,0,1,0,1
+The Coca-Cola Company,The Coca-Cola Company,coca,,coca-?cola (co\.?)?,,KO,0,0,0,1,0
+TKH Group NV,TKH Group,,,,,TWEKA,0,0,0,1,0
+Tnuva Central Cooperative for the Marketing of Agricultural Produce in Israel Ltd,Tnuva Central Cooperative for the Marketing of Agricultural Produce in Israel,tnuva,,\btnuva\b,,,0,0,0,1,0
+Traton SE,Traton S.E,traton,,\btraton\b,,,0,0,0,1,0
+TripAdvisor Inc,TripAdvisor,,,,,TRIP | TRIP[2],1,1,0,1,0
+TUI AG,TUI AG,,tui group,,,TUI,0,0,0,1,0
+Twitoplast Ltd,Twitoplast,,,,,,1,1,0,0,0
+Unikowsky Maoz Ltd,Unikowsky Maoz,unikowsky,maoz,\bunikowsky\b,,,1,1,0,0,0
+Villar International Ltd,Villar International,villar,,\bvillar\b,,VILR,1,1,0,1,0
+VINCI SA,Vinci SA,vinci,,\bvinci\b,,DG,0,0,0,1,0
+Volvo Car Corporation,Volvo Car Corp,volvo,,\bvolvo\b,,VOLV | VLVLY[2],0,0,1,1,1
+WSP Global Inc,WSP Global,wsp,,\bwsp\b,,WSP,0,0,0,1,0
+"Y.A.Z (Yaaz) – Construction and Development
+Company Ltd.","Y.A.Z Construction and Development
+Company",yaz construction,yaaz,\byaz construction\b,,,1,0,0,0,0
+Y.D. Barazani Ltd.,Y.D. Barazani,barazani,,\bbarazani\b,,,1,0,0,0,0
+Yacobi Brothers Group (YSB) Ltd.,Yacobi Brothers Group,yacobi brothers,ysb,\byacobi brothers\b,,,1,0,0,0,0
+Yes TV and Communications Services Ltd,Yes TV and Communications Services,yes tv,,\byes tv\b,,,1,0,0,0,0
+Z.F. Building Company Ltd,Z.F. Building Company,zf building,zf company,zf (building)? (company)?,,,1,0,0,0,0
+Zakai Agriculture Know-how and inputs Ltd,Zakai Agriculture Know-how and inputs,zakai,,\bzakai\b,,,1,1,0,0,0
+ZF Development and Construction,ZF Development and Construction,zf development,zf construction,\bzf development\b,,,1,1,0,0,0
+ZMH Hammerman Ltd,ZMH Hammerman,zmh,hammerman,\bzmh\b,,ZMH,1,1,0,0,0
+Zriha Hlavin Industries Ltd,Zriha Hlavin Industries,zriha,hlavin,\bzriha\b,,,1,1,0,0,0
+Israel Government International Bonds,Israel Government International,,,,,,0,0,0,0,1
+Israel Government Bonds,Israel Government,,,,,,0,0,0,0,1
+Italy btps,Italy btps,,,,,,0,0,0,0,1
+Blackrock Inc,Blackrock,,,,,,0,0,0,0,1
